@@ -1,3 +1,0 @@
-http://www.omdbapi.com/?i=tt3896198&apikey=34a6053b
-
-34a6053b
