@@ -1,0 +1,16 @@
+.CountryCardContainer {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  min-height: 600px;
+  width: 80%;
+  background-color: lightpink;
+  margin: 50px 25px;
+  border-radius: 4px;
+  padding: 10px;
+}
+
+.CountryCardContainer h2 {
+  font-size: 35px;
+  font-weight: 400;
+}
